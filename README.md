@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harsha 
+#  Hi, I'm Harsha 👋 
 
 A passionate Full Stack Developer focused on building scalable and modern web applications.  
 I enjoy turning ideas into real-world projects with clean and efficient code.  
