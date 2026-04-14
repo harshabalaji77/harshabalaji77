@@ -2,7 +2,9 @@
 
 **`Full-stack • Learner • that's it`**
 
-A passionate Full Stack Developer focused on building scalable and modern web applications. I enjoy turning ideas into real-world projects with clean and efficient code. Currently exploring advanced backend systems and improving problem-solving skills.   
+A passionate Full Stack Developer focused on building scalable and modern web applications.
+I enjoy turning ideas into real-world projects with clean and efficient code.
+Currently exploring advanced backend systems and improving problem-solving skills.  
 
 ### Technologies & Tools
 
