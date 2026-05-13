@@ -1,6 +1,6 @@
 #  Hi, I'm Harsha 👋
 
-`Full-stack • Learner • that's it`
+`Full-stack ~ Learner • that's it`
 
 A passionate Full Stack Developer focused on building scalable and modern web applications.
 I enjoy turning ideas into real-world projects with clean and efficient code.
